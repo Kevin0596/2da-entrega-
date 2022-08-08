@@ -112,3 +112,20 @@ h1{
     font-size: 15px;
 }
 
+.recetas{
+    background-image: url(../multimedia/fondi.jpg);
+    width:100%;
+
+}
+
+.divproductos{
+
+text-align: center;
+margin-left: 155px;
+}
+
+.tittle{
+    text-align: center;
+    background-image: url(../multimedia/ejercicio.jpg);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
